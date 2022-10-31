@@ -1,0 +1,44 @@
+{
+    "name": "dino-framework",
+    "version": "0.0.1",
+    "description": "Dino Framework",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cangir/dino-framework.git"
+    },
+    "bugs": {
+        "url": "https://github.com/cangir/dino-framework/issues"
+      },
+    "homepage": "https://github.com/cangir/dino-framework",
+    "keywords": [
+        "wordpress",
+        "theme",
+        "framework",
+        "bootstrap",
+        "underscores"
+    ],
+    "license": "GPL-2.0",
+    "dependencies": {},
+    "devDependencies": {
+        "@babel/core": "^7.10.2",
+        "@babel/preset-env": "^7.10.2",
+        "autoprefixer": "^9.8.0",
+        "bootstrap": "^4.5.0",
+        "browser-sync": "^2.26.7",
+        "del": "^5.1.0",
+        "font-awesome": "^4.7.0",
+        "gulp": "^4.0.2",
+        "gulp-babel": "^8.0.0",
+        "gulp-clean-css": "^4.3.0",
+        "gulp-compass": "^2.1.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-imagemin": "^7.1.0",
+        "gulp-plumber": "^1.2.1",
+        "gulp-postcss": "^8.0.0",
+        "gulp-rename": "^2.0.0",
+        "gulp-replace": "^1.0.0",
+        "gulp-sass": "^4.1.0",
+        "gulp-sourcemaps": "^2.6.5",
+        "gulp-uglify": "^3.0.2"
+    }
+}
