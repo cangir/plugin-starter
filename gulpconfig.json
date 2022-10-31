@@ -1,0 +1,21 @@
+{
+	"browserSyncOptions": {
+		"proxy": "wp-dev.test",
+		"notify": false,
+		"files": ["./css/*.min.css", "./js/*.min.js", "./**/*.php"]
+	},
+	"paths": {
+		"js": "./assets/js",
+		"css": "./assets/css",
+		"fonts": "./assets/fonts",
+		"img": "./assets/img",
+		"imgsrc": "./assets/src/img",
+		"sass": "./assets/src/scss",
+		"node": "./node_modules",
+		"composer": "./vendor",
+		"dev": "./assets/src",
+		"dist": "../../../../dist/plugins/plugin-starter",
+		"distprod": "./dist-product",
+		"vendor": "./assets/vendor"
+	}
+}
